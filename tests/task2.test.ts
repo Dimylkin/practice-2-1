@@ -1,5 +1,5 @@
 import { describe, it, expect } from "vitest";
-import { addBook, removeBook, getBook } from "../src/tasks/task2-functions";
+import { addBook, removeBook, getBook } from "../src/task2-functions";
 import type { Book, Catalog } from "../src/types";
 
 describe("Task 2: Функции работы с каталогом", () => {

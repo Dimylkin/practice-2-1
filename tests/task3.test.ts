@@ -4,7 +4,7 @@ import {
   filterByMinYear,
   filterByMinRating,
   applyFilters,
-} from "../src/tasks/task3-filters";
+} from "../src/task3-filters";
 import type { Book } from "../src/types";
 
 describe("Task 3: Фильтрация", () => {
